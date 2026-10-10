@@ -1,0 +1,6 @@
+module:advanceWars
+co.edu.unbosque.controller
+co.edu.unbosque.model
+co.edu.unbosque.model.persistence
+co.edu.unbosque.util.structure
+co.edu.unbosque.view

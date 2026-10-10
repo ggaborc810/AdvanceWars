@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"advanceWars","l":"co.edu.unbosque.controller"},{"m":"advanceWars","l":"co.edu.unbosque.model"},{"m":"advanceWars","l":"co.edu.unbosque.model.persistence"},{"m":"advanceWars","l":"co.edu.unbosque.util.structure"},{"m":"advanceWars","l":"co.edu.unbosque.view"}];updateSearchResults();

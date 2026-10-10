@@ -1,0 +1,7 @@
+bin/
+*.class
+*.log
+
+# Partidas guardadas que el juego genera al jugar
+Partidas/
+partidas/
