@@ -2,7 +2,7 @@
 
 Juego de escritorio en Java inspirado en *Advance Wars*. De 2 a 4 jugadores compran unidades, las mueven por un mapa con distintos terrenos y se enfrentan en batallas animadas hasta que solo queda un ejército.
 
-Proyecto de tercer corte de **Programación II**, tercer semestre de Ingeniería de Sistemas, Universidad El Bosque.
+Proyecto de tercer corte de **Estructuras de Datos**, tercer semestre de Ingeniería de Sistemas, Universidad El Bosque.
 
 ## Funcionalidades
 
